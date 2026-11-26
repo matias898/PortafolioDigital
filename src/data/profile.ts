@@ -19,8 +19,8 @@ export const profile: Profile = {
     'Mi trayectoria profesional también abarca el diagnóstico, mantenimiento y optimización de equipos computacionales, lo que me permite abordar desafíos tecnológicos desde una perspectiva integral, tanto a nivel de software como de hardware.',
     'Mi objetivo es continuar consolidando mi formación profesional y participar en proyectos tecnológicos que aporten valor mediante soluciones eficientes, funcionales y escalables.',
   ],
-  email: null,
+  email: 'matiastapia123@hotmail.cl',
   github: null,
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/in/mat%C3%ADastapiaaraya/',
   cv: null,
 };
