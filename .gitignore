@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+.prerender/
+.vite/
+*.tsbuildinfo
+coverage/
+.DS_Store
+*.local
